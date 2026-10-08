@@ -1,1 +1,10 @@
-PatientID, Age, Sex, BloodPressure, Cholestrol, Diagnosis
+PatientID, Age, Sex, BloodPressure, Cholesterol, Diagnosis
+101, 45, M, 120/80, 200, Healthy
+102, 50, F, 130/85, 220, At Risk
+103, 60, M, 140/90, 250, At Risk
+104, 35, F, 110/70, 180, Healthy
+105, 55, M, 150/95, 300, At Risk
+106, 22, F, 125/80, 210, Healthy
+107, 45, M, 110/80, 170, Healthy
+108, 30, F, 115/75, 190, Healthy
+109, 70, M, 170/110, 350, At Risk
